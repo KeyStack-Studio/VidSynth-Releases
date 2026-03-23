@@ -14,4 +14,3 @@ professional PDF report — with transcription, analysis, screenshots,
 and structured summaries automatically.
 
 [Visit vidsynth.xyz](https://vidsynth.xyz) for more information.
-```
