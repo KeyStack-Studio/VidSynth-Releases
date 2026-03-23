@@ -15,16 +15,3 @@ and structured summaries automatically.
 
 [Visit vidsynth.xyz](https://vidsynth.xyz) for more information.
 ```
-
-**Then:**
-- Scroll down
-- Click **Commit new file**
-- Main branch now has one commit
-
----
-
-## Then Create the Release
-
-Go to:
-```
-github.com/KeyStack-Studio/VidSynth-Releases/releases/new
