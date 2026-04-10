@@ -1,7 +1,6 @@
 # VidSynth — Releases
 
 > Official release downloads for VidSynth by KeyStack Studio LLC.
-> For source code, documentation, and development — see the main repository.
 
 ---
 
