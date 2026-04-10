@@ -216,7 +216,6 @@ VidSynth is built by **KeyStack Studio LLC**, an independent software studio bas
 - 🎬 [vidsynth.xyz](https://vidsynth.xyz)
 - 📊 [finlit.day](https://finlit.day)
 - 🤖 [aioverlordsim.com](https://aioverlordsim.com)
-- 💌 trevor@keystackstudio.com
 
 ---
 
